@@ -2,10 +2,10 @@
 
 Members:
 
-Erick Jean Reyes
-Harrison Fernandez
+* Erick Jean Reyes
+* Harrison Fernandez
 
 Responsibilities:
 
-Client.py written by Harrison Fernandez
-Server.py written by Erick Jean Reyes
+* Client.py written by Harrison Fernandez
+* Server.py written by Erick Jean Reyes
